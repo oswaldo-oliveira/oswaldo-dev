@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Oswaldo Oliveira!!
 
 - 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Python
+- 🌱 Programdor Java com Spring Boot
 - 📫 Contate-me no email: oswaldo.dev.oliveira@gmail.com
 - 😄 Pronouns: ele/dele
 
@@ -16,7 +16,8 @@
   <img align="center" alt="Oswaldo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Oswaldo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Oswaldo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Oswaldo-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
+  <img align="center" alt="Oswaldo-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
+  <img align="center" alt="Oswaldo-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-plain.svg">
 </div>
   
   ##
