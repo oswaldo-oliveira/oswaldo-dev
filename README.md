@@ -16,4 +16,4 @@ Beyond technical prowess, I'm a seasoned 𝐥𝐞𝐚𝐝𝐞𝐫 and 𝐜𝐨�
 
 ### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,golang,docker,aws,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,next,java,spring,nestjs,golang,docker,aws,azure)](https://skillicons.dev)
